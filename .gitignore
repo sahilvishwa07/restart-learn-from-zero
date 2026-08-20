@@ -1,0 +1,34 @@
+# Ignore all .vscode by default
+.vscode/*
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+target/
+build/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Logs & temp
+*.log
+logs/
+tmp/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradle / Maven
+.gradle/
+.mvn/
